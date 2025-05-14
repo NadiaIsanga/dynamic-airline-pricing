@@ -17,8 +17,6 @@ Enabled strategic pricing across high-elasticity markets: Paris, London, and New
 
 - **Stochastic Optimization**
 - **Python**
-- **Jupyter Notebook**
-- **Revenue Management**
 - **Data Modeling**
 - **Sensitivity Analysis**
 - **Decision Analytics**
